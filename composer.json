@@ -16,7 +16,7 @@
         }
     },
     "require": {
-        "oro/platform": "3.2.x-dev"
+        "oro/platform": "dev-releaseTests"
     },
     "repositories": {
         "oro": {
